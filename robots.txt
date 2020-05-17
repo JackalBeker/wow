@@ -1,0 +1,8 @@
+User-agent: Unnecessarybot
+Disallow: /
+
+User-agent: *
+User-agent: Mediapartners-Google
+Allow: /$
+
+Sitemap: https://jbdigitales.netlify.app/sitemap.xml
