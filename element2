@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <!-- Global site tag (gtag.js) - Google Ads: 977285833 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-977285833"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-977285833');
+</script>
+        <!-- Event snippet for Website sale conversion page -->
+<script>
+  gtag('event', 'conversion', {
+      'send_to': 'AW-977285833/s_SlCKut4NABEMnlgNID',
+      'transaction_id': ''
+  });
+</script>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Encuentra todas nuestras ofertas de Contenido Digital Streaming OTT, este es nuestro catalogo de servicios en el momento. Próximamente más aliados.">
+        <link rel="canonical" href="https://jbdigitales.netlify.app/element.html" />
+        <meta property="og:locale" content="es_ES" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Encuentra todas nuestras ofertas de Contenido Digital Streaming OTT, este es nuestro catalogo de servicios en el momento. Próximamente más aliados." />
+        <meta property="og:description" content="JBDigitales- Contenido Streaming servicio OTT." />
+        <meta property="og:url" content="https://jbdigitales.netlify.app/element.html" />
+        <meta property="og:image" content="https://jbdigitales.netlify.app/assets/img/banner.png" />
+        <meta property="og:image:secure_url" content="https://jbdigitales.netlify.app/assets/img/banner.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:description" content="Encuentra todas nuestras ofertas Contenido Digital OTT, Próximamente más servicios." />
+        <meta name="twitter:title" content="JBDigitales- Contenido Streaming servicio OTT" />
+        <meta name="twitter:site" content="@JackalBeker" />
+        <meta name="twitter:image" content="https://jbdigitales.netlify.app/assets/img/banner.png" />
+        <meta name="twitter:creator" content="@JackalBeker" />
+        <link rel="icon" href="assets/img/ico.png" type="image/x-icon" />
+        <meta name="robots" content="element,follow" />
+        <meta name="author" content="JackalBeker">
+        <meta name="keywords" content="IPTV, Cuentas Netflix , OTT, Amazon prime video"/>
+        <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="assets/font-awesome/css/font-awesome.min.css">
+        <link href="https://fonts.googleapis.com/css?family=Lora:400i" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Poppins:400,600" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+        <script type="text/javascript" src="assets/js/script.js" ></script>
+        <title>JBDigitales - Servicio OTT</title>
+        <!-- Start of HubSpot Embed Code -->
+        <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/7768644.js"></script>
+        <!-- End of HubSpot Embed Code -->
+</head>
+<body>
+<!-- div used to make the body blur -->
+<div class="overlay" id="overlay" onclick="closeNav()"></div>
+
+    <section class="element-full">
+        <section class="head-bar">
+          <div class="container">
+              <div class="row">
+                <div class="col-lg-6 col-xs-6 col-sm-6 col-md-6">
+                  <a href="index.html"><img class="img-responsive" src="assets/img/logo.png"></a>
+                </div>
+                <div class="col-lg-6 col-xs-6 col-sm-6 col-md-6 text-right">
+                    <div id="mySidenav" class="sidenav text-center">
+                        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a><br>
+                        <a href="index.html">Inicio</a><hr>
+                        <a href="generic.html">Acerca de Nosotros</a><hr>
+                        <a href="cuentas.html">Registro Cuentas</a><hr>
+                        <a href="element2.html">Servicio Premium OTT</a><hr>
+                        <a href="element1.html">Pines Contenido</a>             
+                </div>
+                    <div class="main" id="main">
+                      <a href="#" onclick="openNav()">MENU &#9776;</a>
+                    </div>
+                </div>
+              </div>
+              <hr>
+          </div>
+        </section>
+        <section class="element-page">
+          <div class="container">
+            <h2 class="text-center">Servicios Premium OTT</h2>
+            <hr class="hr-mid">
+
+            <section class="Element-heading">
+              <h1>IPTV - Contenido Streaming</h1>
+                    <hr class="hr-short">
+                  <p class="font-2">
+                     Se trata de un método utilizado por algunas operadoras para permitirte acceder a su paquete de televisión online, con funciones extra como el rebobinado en directo de los programas. Disfruta desde la aplicación de america Play en tu teléfono, tablet o ciertos Smart TV en hasta 3 dispositivos al mismo tiempo.</p>
+                         <p class="font-2">Para realizar el pago en pesos Colombinos COP contactar por interno.
+                    </p>
+                 </div>
+                </div>
+                <div class="col-lg-3 col-xs-12 col-sm-12 col-md-3">
+                        <div class="holder-img">
+                          <img class="round-img img-responsive center-block" src="assets/img/24.jpg">
+                        </div>
+                </div>
+            </div>
+                    </section>
+                   
+                </div>
+                    </section>
+                    <section class="Element-heading">
+                    <div class="row btn-line">
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-11">
+                      <a class="btn btn-default call-btn-1" href="https://paypal.me/Jbdigitales/9">3 Dispositivos - 1 mes 33.000 COP - 9 USD)</a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                      <a class="btn btn-default call-btn-2" href="https://paypal.me/Jbdigitales/18">3 Dispositivos - 3 meses 66.000 COP - 18 USD)</a>
+                    </div>
+                     </div>
+                  <div class="row btn-line">
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-11">
+                      <a class="btn btn-default call-btn-2" href="https://paypal.me/Jbdigitales/33">3 Dispositivos - 6 meses 121.000 COP - 33 USD)</a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                      <a class="btn btn-default call-btn-2" href="https://paypal.me/Jbdigitales/65">3 Dispositivos - 12 meses 238.400 COP - 65 USD)</a>
+                      </div>
+                </div>
+            </div>
+            </section>
+            <section class="Element-heading">
+                <h3>Netflix - Paga tu membresía o regálale una a alguien especial</h3>
+                     <hr class="hr-short">
+                  <p class="font-2">
+                 Paga tu suscripción o regálale una a alguien especial. Para ver instantáneamente tus programas de TV y películas favoritas en cualquier dispositivo. conectado a Internet. Mira todo lo que quieras, cuando quieras. Es rápido. Es fácil. Siempre hay algo grandioso para ver.
+                </p>
+                 </div>
+                     </div>
+                    </section>
+                   <section class="Element-heading">
+                   <div class="row btn-line">
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-11">
+                      <a class="btn btn-default call-btn-1" href="https://paypal.me/Jbdigitales/3,23">10.000 COP - 3,23 USD (1 Perfil, 1 Pantalla)</a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                      <a class="btn btn-default call-btn-2" href="https://paypal.me/Jbdigitales/5,68">19.000 COP - 5,68 USD (2 Perfiles, 2 Pantallas)</a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                      <a class="btn btn-default call-btn-2" href="https://paypal.me/Jbdigitales/7,86">27.000 COP - 7,86 USD (3 Perfiles, 3 Pantallas)</a>
+                    </div>
+                  </div>
+
+                  <div class="row btn-line">
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-11">
+                      <a class="btn btn-default call-btn-1" href="https://paypal.me/Jbdigitales/9,5">33.000 COP - 9,50 USD (Cuenta Premium Netflix)</a>
+                    </div>
+            </div>
+            </section>
+            <section class="Element-heading">
+                <h3>AMAZON PRIME VIDEO</h3>
+                    <hr class="hr-short">
+                  <p class="font-2">
+                       Ve películas y series, disfruta de series Amazon Originals exclusivas, además de películas y series populares. Disfruta desde la web o con la aplicación de Prime Video en tu teléfono, tablet o ciertos Smart TV en hasta 3 dispositivos al mismo tiempo.
+                </p>
+                 </div>
+                </div>
+                <div class="col-lg-3 col-xs-12 col-sm-12 col-md-3">
+                        <div class="holder-img">
+                          <img class="round-img img-responsive center-block" src="assets/img/23.jpg">
+                          </div>
+                </div>
+            </div>
+                    </section>
+                  </section>
+                    <section class="Element-heading">
+                    <div class="row btn-line">
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-11">
+                      <a class="btn btn-default call-btn-1" href="https://paypal.me/Jbdigitales/4,32">14.000 COP - 4,32 USD (3 Pantallas)</a>
+                    </div>
+            </div>
+            </section>
+            <section class="Element-heading">
+              <h3>Mas contenido</h3>
+              <div class="row">
+              <div class="col-xs-12 col-lg-12 col-sm-12 col-md-12 blockquote-row">
+                  <div class="col-xs-12 col-lg-12 col-sm-12 col-md-12 blockquote-side">
+                    <p class="font-1">
+                      Conoces todos los productos que puedes comprar como pines prepago? 
+                      Pregunta por más contenido: DIAMANTES FREE FIRE, IMVU, Minecraft, Office 365, PlayStation, Rixty, DirecTV
+                      </p>
+                  </div>
+              </div>
+                      </div>
+               <div class="wow-btn text-center">
+                     <a class="btn btn-default wow-button" href="#">COMBOS</a>
+               </div>
+            </div>
+          </div>
+        </div>
+                  </div>
+               <div class="wow-btn text-center">
+                     <a class="btn btn-default wow-button" href="#FREE FIRE">DIAMANTES FREE FIRE</a>
+               </div>
+            </div>
+          </div>
+        </div>
+            </section>
+            <section class="Element-heading">
+              <h3>TERMINOS Y CONDICIONES</h3>
+                  <div class="row btn-line">
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-11">
+                      <a class="btn btn-default call-btn-1" href="https://help.netflix.com/legal/termsofuse">NETFLIX</a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                      <a class="btn btn-default call-btn-2" href="https://www.spotify.com/co/legal/end-user-agreement/">SPOTIFY</a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                      <a class="btn btn-default call-btn-2" href="https://commerce.microsoft.com/PaymentHub/Help/Show/toc_link_no_50?lang=es-CO">XBOX</a>
+                    </div>
+                  </div>
+
+                  <div class="row btn-line">
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-11">
+                      <a class="btn btn-default call-btn-1" href="https://www.playstation.com/en-us/network/legal/terms-of-service/">PlayStation</a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                      <a class="btn btn-default call-btn-3" href="https://www.microsoft.com/es-co/useterms">Office 365</a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                      <a class="btn btn-default call-btn-3" href="https://www.razer.com/legal/general-terms-of-use">RIXTY</a>
+                    </div>
+                  </div>
+            </section>
+            </section>
+            <section class="E-image">
+              <h3>CONTENIDO Y JUEGOS</h3>
+              <img class="img-generic img-responsive" src="assets/img/22.jpg">
+            </section>
+            <div class="row why-div">
+              <div class="text-center why-pad">
+                     <h2>Contenido STREAMING</h2>
+              </div>
+                   <hr class="hr-mid">
+                   <div class="sub-text text-center">
+                         <p class="font-1">
+                            El portafolio de productos permiten la obtención de créditos y/o membresías en diferentes y reconocidos juegos a nivel mundial tales como: PlayStation, XBOX, Minecraft, IMVU, Rixty entre otros.
+                            También comercializamos pines de Netflix y Spotify.</p>
+                         </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-9 col-sm-12 col-md-9 col-xs-12">
+                 <div class="holder-para">
+                  <h3>SUPER COMBOS CONTENIDO DIGITAL</h3>
+                  <hr class="hr-short">
+                  <p class="font-2">
+                        Tenemos los mejores combos para la membresia de las principales plataformas OTT digitales, PRIME VIDEO, NETFLIX y IPTV.
+                  </p>
+                 </div>
+                </div>
+                <div class="col-lg-3 col-xs-12 col-sm-12 col-md-3">
+                        <div class="holder-img">
+                          <img class="round-img img-responsive center-block" src="assets/img/21.jpg">
+                        </div>
+                </div>
+            </div>
+                    </section>
+            <section class="Element-heading">
+                   <div class="row btn-line">
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-11">
+                      <a class="btn btn-default call-btn-1" href="https://paypal.me/Jbdigitales/12,55">42.800 COP - 12,55 USD (IPTV + Amazon Prime)</a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                      <a class="btn btn-default call-btn-2" href="https://paypal.me/Jbdigitales/12,6">43.000 COP - 12,60 USD (Netflix + Amazon Prime)</a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                      <a class="btn btn-default call-btn-2" href="https://paypal.me/Jbdigitales/14,8">50.500 COP - 14,80 USD (Netflix + IPTV)</a>
+                    </div>
+                  </div>
+
+                  <div class="row btn-line">
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-11">
+                      <a class="btn btn-default call-btn-1" href="https://paypal.me/Jbdigitales/21,33">72.800 COP - 21,33 USD (Netflix + IPTV + Amazon Prime)</a>
+                    </div>
+                    </div>
+
+            <hr class="line-full">
+            
+            <div class="row"> 
+                <div class="col-lg-9 col-xs-12 col-sm-12 col-md-9 col-md-push-3">
+                 <div class="holder-para">
+                  <h3>DIAMANTES - FREE FIRE</h3>
+                  <hr class="hr-short">
+                  <p class="font-2">
+                    Los diamantes cumplen una función muy importante en Free Fire, tanto que se consideran como el recurso de más valor. Con estos diamantes podemos comprar diversos objetos en la tienda, actualizar el Pase Elite, comprar y actualizar personajes, comprar mascotas, coches, así como también desbloquear las habilidades de cada uno de estos personajes. 
+                  </p>
+                 </div>
+                </div>
+                <div class="col-lg-3 col-xs-12 col-sm-12 col-md-3 col-md-pull-9">
+                        <div class="holder-img">
+                          <img class="round-img img-responsive center-block" src="assets/img/20.jpg">
+                        </div>
+                </div> 
+            </div>
+                    </section>
+            <section class="Element-heading">
+                   <div class="row btn-line">
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-11">
+                      <a class="btn btn-default call-btn-1" href="https://paypal.me/Jbdigitales/1,27">100 + bonus 10/ 3.300COP - 1,27USD</a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                      <a class="btn btn-default call-btn-2" href="https://paypal.me/Jbdigitales/3,17">310 + bonus 31/ 9.900COP -  3,17USD</a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                      <a class="btn btn-default call-btn-2" href="https://paypal.me/Jbdigitales/5,07">520 + bonus 52/ 16.500COP - 5,07USD </a>
+                    </div>
+                  </div>
+
+                  <div class="row btn-line">
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-11">
+                      <a class="btn btn-default call-btn-1" href="https://paypal.me/Jbdigitales/9,83">1060 + bonus 106/ 33.000COP - 9,83USD</a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                      <a class="btn btn-default call-btn-3" href="https://paypal.me/Jbdigitales/19,34">2180 + bonus 218/ 66.000COP - 19,34USD</a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                      <a class="btn btn-default call-btn-3" href="https://paypal.me/Jbdigitales/">5600 + bonus 560/ 165.000COP - 47,89USD</a>
+                    </div>
+                  </div>
+                    
+                     <div class="row btn-line">
+                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-11">
+                      <a class="btn btn-default call-btn-1" href="https://paypal.me/Jbdigitales/2,19">Tarjeta semanal/ 6.500COP - 2,19USD</a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                      <a class="btn btn-default call-btn-3" href="https://paypal.me/Jbdigitales/7,58">Tarjeta mensual/ 25.200COP - 7,58USD</a>
+                    </div>
+            </section>
+
+            <hr class="line-full">
+            
+   
+        </section>
+        <section class="social">
+          <ul>
+        <li><a href="https://jbdigitales.business.site/" class="fa fa-gift fa-2x" aria-hidden="true"></a></li>
+        <li><a href="https://twitter.com/JbDigitales" class="fa fa-twitter fa-2x" aria-hidden="true"></a></li>
+        <li><a href="https://www.linkedin.com/company/jbdigitales" class="fa fa-linkedin fa-2x" aria-hidden="true"></a></li>
+        <li><a href="https://www.instagram.com/jbdigitales.col/" class="fa fa-instagram fa-2x" aria-hidden="true"></a></li>
+        <li><a href="https://t.me/jbdigitales" class="fa fa-send fa-2x" aria-hidden="true"></a></li>
+        <li><a href="https://www.facebook.com/JBDigitales" class="fa fa-facebook fa-2x" aria-hidden="true"></a></li>   
+          </ul>
+        </section>
+
+        <section class="footer">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
+                <div class="footer-p1">
+                        <p class="font-2">Copy right 2020 by JBDigitales</p>
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                <img class="img-responsive foot-img" src="assets/img/footer-logo.png">
+              </div>
+              <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
+                <div class="footer-p2" >
+                <p class="font-2">WhatsApp  <i class="fa fa-heart" aria-hidden="true" ></i> contact <a href="https://api.whatsapp.com/send?phone=573044282656" target="_blank">JBDigitales</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+ </section>
+</body>
+</html>
