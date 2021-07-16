@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Global site tag (gtag.js) - Google Ads: 977285833 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-977285833"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-977285833');
+</script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="Gift Card, Game Card, Tarjeta regalo, Pines prepago, Recargas, OTT, JackalBeker, JBDigitales"/>
+    <meta name="description" content="Encuentra todas nuestras ofertas de pines prepago de Juegos y Contenido, Acerca de nosotros.">
+    <link rel="canonical" href="https://jbdigitales.netlify.app/generic.html" />
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Pines NETFLIX y más... Colombia">
+    <meta property="og:image" content="https://cdn1.telesco.pe/file/AjUauiRH_gux_1__0tkjfjuL-OdrWDYBIHlAQi18wjYbi3ZoMuYIZVtg7h4VI_S9Di0epyOIAFhBOLjxpxLa83Pv7uWzqWCgo0c3CEs4DRiVsWN0OT3dOKtCYaZtNpMyR8YsOdfQXPIstJh-EDkZSBN62l5Z7QGrY1vODTxRBEcp1WZsg_oz5XDhJzSSTLgo92qNusz8ridcx_bp-T7qj-olVR9S0aBYrmNdqAqSPDm5IWQMNy48FUDyaKvRg8xLHCe8rD_WcNdfvs7JZE7EZZBsnqg_Fe0uilnP91fc9ZBbcGe9sCDUC0Md2tmsK-pylQJYB0-UQOtdPk-2Np1zyg.jpg">
+    <meta property="og:site_name" content="Telegram">
+    <meta property="og:description" content="Pines prepago para comprar o recargar membresía de las principales plataformas de juegos o contenido streaming">
+    <meta property="og:title" content="Encuentra todas nuestras ofertas de pines prepago de Juegos y Contenido, acerca de nosotros." />
+    <meta property="og:description" content="JBDigitales- Pines prepago de Juegos y Contenido." />
+    <link rel="icon" href="assets/img/ico.png" type="image/x-icon" />
+    <meta name="robots" content="index,follow" />
+    <meta name="author" content="JackalBeker">
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/font-awesome/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Lora:400i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,600" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <script type="text/javascript" src="assets/js/script.js" ></script>
+    <title>JBDigitales- Nosotros</title>
+    <!-- Start of HubSpot Embed Code -->
+    <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/7768644.js"></script>
+    <!-- End of HubSpot Embed Code -->
+</head>
+<body>
+<!-- div used to make the body blur -->
+<div class="overlay" id="overlay" onclick="closeNav()"></div>
+
+    <section class="generic-page">
+     <section class="head-bar">
+        <div class="container">
+            <div class="row">
+              <div class="col-lg-6 col-xs-6 col-sm-6 col-md-6">
+                <a href="index.html"><img class="img-responsive" src="assets/img/logo.png"></a>
+              </div>
+              <div class="col-lg-6 col-xs-6 col-sm-6 col-md-6 text-right">
+                  <div id="mySidenav" class="sidenav text-center">
+                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a><br>
+                    <a href="index.html">Inicio</a><hr>
+                    <a href="generic.html">Acerca de Nosotros</a><hr>
+                    <a href="cuentas.html">Cuentas Netflix</a><hr>
+                    <a href="https://catalogodigital.co/app/app/jbdigitales/juegos">Catalogo Juegos</a><hr>  
+                    <a href="https://catalogodigital.co/app/app/jbdigitales/contenido_digital">Catalogo Contenido</a>     
+                </div>
+                  <div class="main" id="main">
+                    <a href="#" onclick="openNav()">MENU &#9776;</a>
+                  </div>
+              </div>
+            </div>
+            <hr>
+        </div>
+    </section>
+    <div class="container">
+        <section class="generic text-center">
+           <h2>Acerca de Nosotros</h2>
+          <hr class="hr-mid">
+            <img class="img-generic img-responsive" src="assets/img/5.jpg">
+        </section>
+        <section class="font-2">
+            <p class="generic-p">
+            Los Pines Prepago son un código alfanumérico que te llegarán a tu correo y/o celular inmediatamente después de realizada la compra. No son una tarjeta física y no se hará entrega de ningún medio físico tal como empaques o tarjetas. Los pines funcionan exactamente igual que una Tarjeta POSA, debes seguir el proceso de canjeo e ingresar el pin en la plataforma, aplicación o página web del proveedor correspondiente.
+            </p> 
+            <p class="generic-p">
+            Las tarjetas y pines prepago Netflix funcionan como una forma de agregar saldo a tu cuenta Netflix, esto significa que dependiendo el monto y el plan elegido, una tarjeta o pin podrá durar mucho más de 1 mes. Puedes aplicar el valor de la tarjeta prepago Netflix a cualquier plan. La duración de la membresía de la tarjeta depende del valor de la tarjeta y del plan que tú escojas.
+            </p>
+            <p class="generic-p">
+            Apoyando el estado de contingencia actual durante estos días de cuarentena, e inicio de la reactivacion economica impulsamos nuestros servicios para quedarnos en nuestros hogares y de #YoMeQuedoEnCasa como insignia de compromiso social ante la crisis que el COVID-19 está provocando, existen alternativas para que quienes no tenemos tarjeta de crédito podamos seguir disfrutando de nuestros contenidos prepago favoritos #YoMeQuedoEnMiNegocio.
+            </p>
+            <script data-reference-id="2483410b-20a4-4562-aa10-1920d52dba34">const s=document.createElement("script");s.src="https://static.directopago.com/directopago.min.js",s.async=!0,document.body.appendChild(s),s.addEventListener("load",()=>{const e=document.querySelector('script[data-reference-id="2483410b-20a4-4562-aa10-1920d52dba34"]'),t=e.parentNode,n="dp-btn-2483410b-20a4-4562-aa10-1920d52dba34",c=document.createElement("div");c.id=n,t.insertBefore(c,e);new DirectoPago("KFFZQnzSOIXeNemHfRPXjloCgQBlzJbE").createCheckout(n,{country:null,currency:"USD",amount:"7",lang:"es"})});</script>
+             </section>
+    </div>
+    </section>
+    <section class="social">
+      <ul>
+        <li><a href="https://jbdigitales.business.site/" class="fa fa-gift fa-2x" aria-hidden="true"></a></li>
+        <li><a href="https://www.linkedin.com/company/jbdigitales" class="fa fa-linkedin fa-2x" aria-hidden="true"></a></li>
+        <li><a href="https://www.instagram.com/jbdigitales.col/" class="fa fa-instagram fa-2x" aria-hidden="true"></a></li>
+        <li><a href="https://t.me/jbdigitales" class="fa fa-send fa-2x" aria-hidden="true"></a></li>
+        <li><a href="https://www.facebook.com/JBDigitales" class="fa fa-facebook fa-2x" aria-hidden="true"></a></li>  
+      </ul>
+    </section>
+
+    <section class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
+            <div class="footer-p1">
+                    <p class="font-2">Copy right 2020 by JBDigitales</p>
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+            <img class="img-responsive foot-img" src="assets/img/footer-logo.png">
+          </div>
+          <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
+            <div class="footer-p2" >
+            <p class="font-2">WhatsApp  <i class="fa fa-heart" aria-hidden="true" ></i> contact <a href="https://api.whatsapp.com/send?phone=573044282656" target="_blank">JBDigitales</a></p>
+              </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+</body>
+</html>
